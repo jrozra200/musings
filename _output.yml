@@ -3,7 +3,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Do Whatever Works for You</a></li>
+        <li><a href="./">Musings of a Listless Mind</a></li>
       after: |
         <li><a href="https://www.jakelearnsdatascience.com" target="blank">Jake Learns Data Science</a></li>
     download: ["pdf", "epub"]

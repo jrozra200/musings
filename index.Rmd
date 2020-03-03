@@ -1,5 +1,5 @@
 --- 
-title: "Do Whatever Works for You"
+title: "Musings of a Listless Mind"
 author: "Jake Rozran"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -11,42 +11,6 @@ description: "A book for people who need to know that whatever works, works. For
 ---
 
 # Introduction
-
-When I first found out I would be a father, I read books. Our OB/GYN made us go 
-to a class. I was nervous, but I wasn't cocky. Every existing parent I knew 
-wanted to give me advice and I happily listened. I wanted to make sure I knew 
-what to do with the thing when the thing finally came into the world. I was 
-excited - and as a perfection seeker, I knew I was going to do this dad thing 
-right. 
-
-The first thing I learned is that it isn't a "thing," it's a "him," and he 
-rocked my world instantly. It didn't take me long to forget everything I had 
-read in the books, learned in class, and heard from trusted advisors. That's the 
-thing that happens when you have a baby boy who decides that 2am is the proper 
-time to urge mom to tell dad it's time to go to the hospital. By the time he 
-arrived and all the dust had settled, it was late into the evening. That was 
-hardly the last sleep deprived day I've had as a father. 
-
-I, like so many other fathers, wore the haggard look of an unshaved face and 
-bloodshot eyes proudly as a badge of honor. All this time, I was tired but I was 
-"doing it right." The second he made an uncomfortable noise, I was changing his 
-diaper, offering him a bottle, and burping him. No child of mine will be 
-subjected to "bad" parenting. 
-
-So... I ran around without sleep for a long time (like 14 months or more - I'm 
-pretty fucking stubborn) before I learned the secret. It is not a bad thing to 
-take cues from the kid and do the things he likes - so what if the books don't 
-say to do it that way or if the hottest baby product on the market isn't doing 
-what it promised to do. If the baby is happy (or asleep), leave him be! Even 
-better, if I am happy, leave well enough alone and keep on keeping on. 
-
-**DO WHATEVER WORKS FOR YOU** and anything else be damned. Find your style, 
-happiness, parenting technique, career, whatever and do it that way - if it is 
-working (and you're not hurting yourself or others), keep on going. Give the 
-baby a pacifier, or swaddle them, or let them sit in a dirty diaper, or sleep 
-with ear plugs, or take turns with your partner (if you are so lucky to have 
-one) having a night off. Smile at the people who look at you funny or are bold 
-enough to tell you that it isn't the right way - they don't have a fucking clue. 
 
 This is not a parenting book, but I will draw on many lessons I've learned in my 
 short time as a dad. It is a bunch of short stories that have shown me that 
